@@ -11,8 +11,10 @@
  step 4. Open maintanance request doctype.
 
  step 5. click on add row 
+ 
         select field type = table 
-        select options : name of the child doctype.
+        
+        select options = name of the child doctype.
   
   
  step6. Then now it has been linked.
