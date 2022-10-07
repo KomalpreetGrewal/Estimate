@@ -61,5 +61,8 @@ For Estimate :
      });
       ```
       
-  ##### Put above script into client script of the estimate doctype then enable the script.
+  ##### Put above scripte into client script of the estimate doctype then enable the script.
+  
+  Estimate table has been generated.
+  
    
