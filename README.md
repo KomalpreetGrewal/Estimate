@@ -63,6 +63,6 @@ For Estimate :
       
   ##### Put above scripte into client script of the estimate doctype then enable the script.
   
-  Estimate table has been generated.
+  ####  Estimate table has been generated. It looks something like below given.
   
-   
+   ![Estimate](./ESTIMATE.png)
